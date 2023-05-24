@@ -48,6 +48,7 @@
 		"react": "^17.0.2",
 		"react-dom": "^17.0.2",
 		"single-spa-react": "^4.3.1",
+		"victory": "^36.6.10",
 		"zustand": "^4.3.8"
 	}
 }
